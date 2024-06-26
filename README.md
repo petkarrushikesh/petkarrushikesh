@@ -11,6 +11,7 @@
 
 - [flutter]
 - [python]
+- [firebase]
 
 ## Projects
 
